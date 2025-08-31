@@ -25,13 +25,21 @@ Es ideal para organizar intercambios de regalos, asignar turnos, o simplemente d
 ✅ Completado y Funcional: la aplicación está terminada y todas las funcionalidades principales operan correctamente.
 
 ### 🎥 Demostración
-Agregar Participantes: interfaz para agregar nombres a la lista de participantes.
-Realizar Sorteo: resultado final.
-Interfaz Responsiva: vista de la aplicación en diferentes dispositivos.
+<div align="center">
+
+**👥 Agregar Participantes** • 
+**🎯 Realizar Sorteo** • 
+**📱 Interfaz Responsiva**
+
+*Interfaz para agregar nombres* • 
+*Resultado final* • 
+*Vista en diferentes dispositivos*
+
+</div>
 
 ### 🔗 Acceso al Proyecto
-El repositorio del proyecto está disponible en: https://github.com/Tuanama21/challenge-amigo-secreto_EdwardTuanama.git
-Para su Uso esta disponible en: https://tuanama21.github.io/challenge-amigo-secreto_EdwardTuanama/
+[![GitHub Repository](https://img.shields.io/badge/Repositorio-Código_Fuente-black?style=for-the-badge&logo=github)](https://github.com/Tuanama21/challenge-amigo-secreto_EdwardTuanama.git)
+[![Live Demo](https://img.shields.io/badge/Demo-Online-green?style=for-the-badge&logo=google-chrome)](https://tuanama21.github.io/challenge-amigo-secreto_EdwardTuanama/)
 
 ### 💻 Tecnologías Utilizadas
 <table align="center">
